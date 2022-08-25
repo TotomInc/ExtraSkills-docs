@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Expressions Configuration
+# Expressions Usage
 
 ## What is an Expression?
 
